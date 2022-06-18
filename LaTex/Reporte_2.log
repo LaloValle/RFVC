@@ -1,0 +1,1085 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022 - Flatpak) (preloaded format=pdflatex 2022.4.26)  17 JUN 2022 23:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Reporte_2.tex
+(./Reporte_2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/app/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/app/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/app/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/app/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(/app/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+(/app/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count196
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/app/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/app/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/app/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/app/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks20
+)
+(/app/texlive/texmf-dist/tex/latex/nopageno/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/app/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen148
+))
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(/app/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks22
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks23
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/app/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/app/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/app/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/app/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/app/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/app/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/app/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(/app/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+)
+(/app/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/06 v3.16 programmable bibliographies (PK/MW)
+
+(/app/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/app/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/app/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/app/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+)
+(/app/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/app/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/app/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count279
+
+(/app/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/app/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/app/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count280
+\c@listtotal=\count281
+\c@listcount=\count282
+\c@liststart=\count283
+\c@liststop=\count284
+\c@citecount=\count285
+\c@citetotal=\count286
+\c@multicitecount=\count287
+\c@multicitetotal=\count288
+\c@instcount=\count289
+\c@maxnames=\count290
+\c@minnames=\count291
+\c@maxitems=\count292
+\c@minitems=\count293
+\c@citecounter=\count294
+\c@maxcitecounter=\count295
+\c@savedcitecounter=\count296
+\c@uniquelist=\count297
+\c@uniquename=\count298
+\c@refsection=\count299
+\c@refsegment=\count300
+\c@maxextratitle=\count301
+\c@maxextratitleyear=\count302
+\c@maxextraname=\count303
+\c@maxextradate=\count304
+\c@maxextraalpha=\count305
+\c@abbrvpenalty=\count306
+\c@highnamepenalty=\count307
+\c@lownamepenalty=\count308
+\c@maxparens=\count309
+\c@parenlevel=\count310
+\blx@tempcnta=\count311
+\blx@tempcntb=\count312
+\blx@tempcntc=\count313
+\blx@maxsection=\count314
+\blx@maxsegment@0=\count315
+\blx@notetype=\count316
+\blx@parenlevel@text=\count317
+\blx@parenlevel@foot=\count318
+\blx@sectionciteorder@0=\count319
+\blx@entrysetcounter=\count320
+\blx@biblioinstance=\count321
+\labelnumberwidth=\skip66
+\labelalphawidth=\skip67
+\biblabelsep=\skip68
+\bibitemsep=\skip69
+\bibnamesep=\skip70
+\bibinitsep=\skip71
+\bibparsep=\skip72
+\bibhang=\skip73
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count322
+\c@maxcomprange=\count323
+\c@mincompwidth=\count324
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/06 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count325
+\c@savedafterword=\count326
+\c@annotator=\count327
+\c@savedannotator=\count328
+\c@author=\count329
+\c@savedauthor=\count330
+\c@bookauthor=\count331
+\c@savedbookauthor=\count332
+\c@commentator=\count333
+\c@savedcommentator=\count334
+\c@editor=\count335
+\c@savededitor=\count336
+\c@editora=\count337
+\c@savededitora=\count338
+\c@editorb=\count339
+\c@savededitorb=\count340
+\c@editorc=\count341
+\c@savededitorc=\count342
+\c@foreword=\count343
+\c@savedforeword=\count344
+\c@holder=\count345
+\c@savedholder=\count346
+\c@introduction=\count347
+\c@savedintroduction=\count348
+\c@namea=\count349
+\c@savednamea=\count350
+\c@nameb=\count351
+\c@savednameb=\count352
+\c@namec=\count353
+\c@savednamec=\count354
+\c@translator=\count355
+\c@savedtranslator=\count356
+\c@shortauthor=\count357
+\c@savedshortauthor=\count358
+\c@shorteditor=\count359
+\c@savedshorteditor=\count360
+\c@labelname=\count361
+\c@savedlabelname=\count362
+\c@institution=\count363
+\c@savedinstitution=\count364
+\c@lista=\count365
+\c@savedlista=\count366
+\c@listb=\count367
+\c@savedlistb=\count368
+\c@listc=\count369
+\c@savedlistc=\count370
+\c@listd=\count371
+\c@savedlistd=\count372
+\c@liste=\count373
+\c@savedliste=\count374
+\c@listf=\count375
+\c@savedlistf=\count376
+\c@location=\count377
+\c@savedlocation=\count378
+\c@organization=\count379
+\c@savedorganization=\count380
+\c@origlocation=\count381
+\c@savedoriglocation=\count382
+\c@origpublisher=\count383
+\c@savedorigpublisher=\count384
+\c@publisher=\count385
+\c@savedpublisher=\count386
+\c@language=\count387
+\c@savedlanguage=\count388
+\c@origlanguage=\count389
+\c@savedoriglanguage=\count390
+\c@pageref=\count391
+\c@savedpageref=\count392
+\shorthandwidth=\skip74
+\shortjournalwidth=\skip75
+\shortserieswidth=\skip76
+\shorttitlewidth=\skip77
+\shortauthorwidth=\skip78
+\shorteditorwidth=\skip79
+\locallabelnumberwidth=\skip80
+\locallabelalphawidth=\skip81
+\localshorthandwidth=\skip82
+\localshortjournalwidth=\skip83
+\localshortserieswidth=\skip84
+\localshorttitlewidth=\skip85
+\localshortauthorwidth=\skip86
+\localshorteditorwidth=\skip87
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/06 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/06 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count393
+\c@textcitetotal=\count394
+\c@textcitemaxnames=\count395
+\c@biburlbigbreakpenalty=\count396
+\c@biburlbreakpenalty=\count397
+\c@biburlnumpenalty=\count398
+\c@biburlucpenalty=\count399
+\c@biburllcpenalty=\count400
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count401
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/06 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/06 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count402
+\c@bbx:relatedtotal=\count403
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/12/06 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/app/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count404
+\csq@gtype=\count405
+\csq@glevel=\count406
+\csq@qlevel=\count407
+\csq@maxlvl=\count408
+\csq@tshold=\count409
+\csq@ltx@everypar=\toks26
+
+(/app/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/app/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/app/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count410
+\lst@gtempboxa=\box52
+\lst@token=\toks27
+\lst@length=\count411
+\lst@currlwidth=\dimen159
+\lst@column=\count412
+\lst@pos=\count413
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count414
+\lst@lineno=\count415
+\lst@maxwidth=\dimen162
+
+(/app/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count416
+\lst@skipnumbers=\count417
+\lst@framebox=\box53
+)
+(/app/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/app/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(/app/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+(/app/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(/app/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+
+(/app/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count418
+\l__pdf_internal_box=\box54
+)
+(./Reporte_2.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
+\openout1 = `Reporte_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(34.14322pt, 546.00856pt, 34.14322pt)
+* v-part:(T,H,B)=(34.14322pt, 726.68355pt, 34.14322pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=546.00856pt
+* \textheight=726.68355pt
+* \oddsidemargin=-38.12677pt
+* \evensidemargin=-38.12677pt
+* \topmargin=-75.12677pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/app/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count419
+\scratchdimen=\dimen163
+\scratchbox=\box55
+\nofMPsegments=\count420
+\nofMParguments=\count421
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count422
+\MPscratchDim=\dimen164
+\MPnumerator=\count423
+\makeMPintoPDFobject=\count424
+\everyMPtoPDFconversion=\toks29
+) (/app/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/app/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2020/12/06 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/app/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/app/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/app/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/06 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `Reporte_2.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Reporte_2.bbl' found.
+
+(./Reporte_2.bbl)
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
+\c@lstlisting=\count425
+ (./Titulo.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+(./Introduccion.tex [1
+
+{/app/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+<Imagenes/GUI.png, id=11, 1154.3125pt x 1051.93pt>
+File: Imagenes/GUI.png Graphic file (type png)
+<use Imagenes/GUI.png>
+Package pdftex.def Info: Imagenes/GUI.png  used on input line 65.
+(pdftex.def)             Requested size: 512.1496pt x 466.735pt.
+) [2 <./Imagenes/GUI.png>] (./Grises_umbralado.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+
+
+(/app/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+
+
+(/app/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3]
+<Imagenes/Kapur_1.png, id=35, 1122.1925pt x 867.24pt>
+File: Imagenes/Kapur_1.png Graphic file (type png)
+<use Imagenes/Kapur_1.png>
+Package pdftex.def Info: Imagenes/Kapur_1.png  used on input line 79.
+(pdftex.def)             Requested size: 270.30118pt x 208.8829pt.
+<Imagenes/Kapur_2.png, id=36, 1122.1925pt x 867.24pt>
+File: Imagenes/Kapur_2.png Graphic file (type png)
+<use Imagenes/Kapur_2.png>
+Package pdftex.def Info: Imagenes/Kapur_2.png  used on input line 79.
+(pdftex.def)             Requested size: 270.30118pt x 208.8829pt.
+<Imagenes/Kapur_3.png, id=37, 985.6825pt x 832.10875pt>
+File: Imagenes/Kapur_3.png Graphic file (type png)
+<use Imagenes/Kapur_3.png>
+Package pdftex.def Info: Imagenes/Kapur_3.png  used on input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 240.20071pt.
+
+Overfull \hbox (18.59383pt too wide) in paragraph at lines 78--83
+[][]
+ []
+
+[4 <./Imagenes/Kapur_1.png> <./Imagenes/Kapur_2.png> <./Imagenes/Kapur_3.png>]
+[5]
+<Imagenes/Cheng_1.png, id=47, 985.6825pt x 816.04875pt>
+File: Imagenes/Cheng_1.png Graphic file (type png)
+<use Imagenes/Cheng_1.png>
+Package pdftex.def Info: Imagenes/Cheng_1.png  used on input line 161.
+(pdftex.def)             Requested size: 284.52756pt x 235.56476pt.
+<Imagenes/Cheng_2.png, id=48, 985.6825pt x 816.04875pt>
+File: Imagenes/Cheng_2.png Graphic file (type png)
+<use Imagenes/Cheng_2.png>
+Package pdftex.def Info: Imagenes/Cheng_2.png  used on input line 161.
+(pdftex.def)             Requested size: 256.0748pt x 212.0058pt.
+<Imagenes/Cheng_3.png, id=49, 985.6825pt x 816.04875pt>
+File: Imagenes/Cheng_3.png Graphic file (type png)
+<use Imagenes/Cheng_3.png>
+Package pdftex.def Info: Imagenes/Cheng_3.png  used on input line 162.
+(pdftex.def)             Requested size: 312.9803pt x 259.11128pt.
+
+Overfull \hbox (18.59383pt too wide) in paragraph at lines 160--165
+[][]
+ []
+
+) [6 <./Imagenes/Cheng_1.png> <./Imagenes/Cheng_2.png> <./Imagenes/Cheng_3.png>
+] (./Contabilizacion_objetos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+[7]
+<Imagenes/Monedas_1.png, id=60, 475.7775pt x 350.30875pt>
+File: Imagenes/Monedas_1.png Graphic file (type png)
+<use Imagenes/Monedas_1.png>
+Package pdftex.def Info: Imagenes/Monedas_1.png  used on input line 61.
+(pdftex.def)             Requested size: 256.0748pt x 188.55453pt.
+<Imagenes/Monedas_2.png, id=61, 501.875pt x 360.34625pt>
+File: Imagenes/Monedas_2.png Graphic file (type png)
+<use Imagenes/Monedas_2.png>
+Package pdftex.def Info: Imagenes/Monedas_2.png  used on input line 61.
+(pdftex.def)             Requested size: 256.0748pt x 183.86763pt.
+<Imagenes/Monedas_3.png, id=62, 356.83313pt x 262.73157pt>
+File: Imagenes/Monedas_3.png Graphic file (type png)
+<use Imagenes/Monedas_3.png>
+Package pdftex.def Info: Imagenes/Monedas_3.png  used on input line 62.
+(pdftex.def)             Requested size: 256.0748pt x 188.55319pt.
+<Imagenes/Monedas_4.png, id=63, 356.83313pt x 262.73157pt>
+File: Imagenes/Monedas_4.png Graphic file (type png)
+<use Imagenes/Monedas_4.png>
+Package pdftex.def Info: Imagenes/Monedas_4.png  used on input line 62.
+(pdftex.def)             Requested size: 256.0748pt x 188.55319pt.
+<Imagenes/Monedas_5.png, id=64, 824.07875pt x 332.24126pt>
+File: Imagenes/Monedas_5.png Graphic file (type png)
+<use Imagenes/Monedas_5.png>
+Package pdftex.def Info: Imagenes/Monedas_5.png  used on input line 63.
+(pdftex.def)             Requested size: 256.0748pt x 103.24213pt.
+) [8 <./Imagenes/Monedas_1.png> <./Imagenes/Monedas_2.png> <./Imagenes/Monedas_
+3.png (PNG copy)> <./Imagenes/Monedas_4.png (PNG copy)> <./Imagenes/Monedas_5.p
+ng>] (./Ruido.tex [9]
+<Imagenes/Ruido_gauss_bn_1.png, id=74, 1018.80624pt x 678.535pt>
+File: Imagenes/Ruido_gauss_bn_1.png Graphic file (type png)
+<use Imagenes/Ruido_gauss_bn_1.png>
+Package pdftex.def Info: Imagenes/Ruido_gauss_bn_1.png  used on input line 59.
+(pdftex.def)             Requested size: 348.54625pt x 232.138pt.
+<Imagenes/Ruido_gauss_bn_2.png, id=75, 1018.80624pt x 678.535pt>
+File: Imagenes/Ruido_gauss_bn_2.png Graphic file (type png)
+<use Imagenes/Ruido_gauss_bn_2.png>
+Package pdftex.def Info: Imagenes/Ruido_gauss_bn_2.png  used on input line 59.
+(pdftex.def)             Requested size: 348.54625pt x 232.138pt.
+<Imagenes/Ruido_gauss_color_1.png, id=76, 1022.82124pt x 679.53876pt>
+File: Imagenes/Ruido_gauss_color_1.png Graphic file (type png)
+<use Imagenes/Ruido_gauss_color_1.png>
+Package pdftex.def Info: Imagenes/Ruido_gauss_color_1.png  used on input line 6
+0.
+(pdftex.def)             Requested size: 348.54625pt x 231.55856pt.
+<Imagenes/Ruido_gauss_color_2.png, id=77, 1022.82124pt x 679.53876pt>
+File: Imagenes/Ruido_gauss_color_2.png Graphic file (type png)
+<use Imagenes/Ruido_gauss_color_2.png>
+Package pdftex.def Info: Imagenes/Ruido_gauss_color_2.png  used on input line 6
+0.
+(pdftex.def)             Requested size: 348.54625pt x 231.55856pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./Imagenes/Ruido_gauss_bn_1.png> <./Imagenes/Ruido_gauss_bn_2.png> <./Imag
+enes/Ruido_gauss_color_1.png> <./Imagenes/Ruido_gauss_color_2.png>]
+<Imagenes/Ruido_sp_bn_1.png, id=85, 834.11626pt x 620.3175pt>
+File: Imagenes/Ruido_sp_bn_1.png Graphic file (type png)
+<use Imagenes/Ruido_sp_bn_1.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_bn_1.png  used on input line 70.
+(pdftex.def)             Requested size: 312.9803pt x 232.76047pt.
+<Imagenes/Ruido_sp_bn_2.png, id=86, 834.11626pt x 620.3175pt>
+File: Imagenes/Ruido_sp_bn_2.png Graphic file (type png)
+<use Imagenes/Ruido_sp_bn_2.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_bn_2.png  used on input line 70.
+(pdftex.def)             Requested size: 312.9803pt x 232.76047pt.
+<Imagenes/Ruido_sp_color_1.png, id=87, 834.11626pt x 620.3175pt>
+File: Imagenes/Ruido_sp_color_1.png Graphic file (type png)
+<use Imagenes/Ruido_sp_color_1.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_color_1.png  used on input line 71.
+(pdftex.def)             Requested size: 312.9803pt x 232.76047pt.
+<Imagenes/Ruido_sp_color_2.png, id=88, 834.11626pt x 620.3175pt>
+File: Imagenes/Ruido_sp_color_2.png Graphic file (type png)
+<use Imagenes/Ruido_sp_color_2.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_color_2.png  used on input line 71.
+(pdftex.def)             Requested size: 312.9803pt x 232.76047pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Imagenes/Ruido_sp_bn_1.png> <./Imagenes/Ruido_sp_bn_2.png> <./Imagenes/R
+uido_sp_color_1.png> <./Imagenes/Ruido_sp_color_2.png>]) [12
+
+
+
+
+] (./Filtros.tex
+[13]
+<Imagenes/Ruido_Gauss_5_50_FMA_5.png, id=103, 960.58875pt x 507.8975pt>
+File: Imagenes/Ruido_Gauss_5_50_FMA_5.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_FMA_5.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_FMA_5.png  used on input lin
+e 54.
+(pdftex.def)             Requested size: 348.54625pt x 184.29219pt.
+<Imagenes/Ruido_Gauss_5_50_Gauss_5_5.png, id=104, 960.58875pt x 507.8975pt>
+File: Imagenes/Ruido_Gauss_5_50_Gauss_5_5.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_Gauss_5_5.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_Gauss_5_5.png  used on input
+ line 54.
+(pdftex.def)             Requested size: 348.54625pt x 184.29219pt.
+<Imagenes/Ruido_Gauss_5_50_FMA_3.png, id=105, 960.58875pt x 507.8975pt>
+File: Imagenes/Ruido_Gauss_5_50_FMA_3.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_FMA_3.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_FMA_3.png  used on input lin
+e 55.
+(pdftex.def)             Requested size: 348.54625pt x 184.29219pt.
+<Imagenes/Ruido_Gauss_5_50_Gauss_5_3.png, id=106, 960.58875pt x 507.8975pt>
+File: Imagenes/Ruido_Gauss_5_50_Gauss_5_3.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_Gauss_5_3.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_Gauss_5_3.png  used on input
+ line 55.
+(pdftex.def)             Requested size: 348.54625pt x 184.29219pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+[14
+
+ <./Imagenes/Ruido_Gauss_5_50_FMA_5.png> <./Imagenes/Ruido_Gauss_5_50_Gauss_5_5
+.png> <./Imagenes/Ruido_Gauss_5_50_FMA_3.png> <./Imagenes/Ruido_Gauss_5_50_Gaus
+s_5_3.png>]
+<Imagenes/Ruido_sp_25_FMA_5.png, id=114, 960.58875pt x 634.37pt>
+File: Imagenes/Ruido_sp_25_FMA_5.png Graphic file (type png)
+<use Imagenes/Ruido_sp_25_FMA_5.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_25_FMA_5.png  used on input line 65.
+
+(pdftex.def)             Requested size: 348.54625pt x 230.18312pt.
+<Imagenes/Ruido_sp_25_Gauss_5_5.png, id=115, 960.58875pt x 634.37pt>
+File: Imagenes/Ruido_sp_25_Gauss_5_5.png Graphic file (type png)
+<use Imagenes/Ruido_sp_25_Gauss_5_5.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_25_Gauss_5_5.png  used on input line
+ 65.
+(pdftex.def)             Requested size: 348.54625pt x 230.18312pt.
+<Imagenes/Ruido_sp_25_FMA_3.png, id=116, 960.58875pt x 634.37pt>
+File: Imagenes/Ruido_sp_25_FMA_3.png Graphic file (type png)
+<use Imagenes/Ruido_sp_25_FMA_3.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_25_FMA_3.png  used on input line 66.
+
+(pdftex.def)             Requested size: 348.54625pt x 230.18312pt.
+<Imagenes/Ruido_sp_25_Gauss_5_3.png, id=117, 960.58875pt x 634.37pt>
+File: Imagenes/Ruido_sp_25_Gauss_5_3.png Graphic file (type png)
+<use Imagenes/Ruido_sp_25_Gauss_5_3.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_25_Gauss_5_3.png  used on input line
+ 66.
+(pdftex.def)             Requested size: 348.54625pt x 230.18312pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Imagenes/Ruido_sp_25_FMA_5.png> <./Imagenes/Ruido_sp_25_Gauss_5_5.png> <
+./Imagenes/Ruido_sp_25_FMA_3.png> <./Imagenes/Ruido_sp_25_Gauss_5_3.png>]
+<Imagenes/Ruido_sp_10_.png, id=125, 754.82pt x 996.72375pt>
+File: Imagenes/Ruido_sp_10_.png Graphic file (type png)
+<use Imagenes/Ruido_sp_10_.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_10_.png  used on input line 107.
+(pdftex.def)             Requested size: 241.84842pt x 319.35355pt.
+<Imagenes/Ruido_sp_10_mediana_3.png, id=126, 754.82pt x 996.72375pt>
+File: Imagenes/Ruido_sp_10_mediana_3.png Graphic file (type png)
+<use Imagenes/Ruido_sp_10_mediana_3.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_10_mediana_3.png  used on input line
+ 107.
+(pdftex.def)             Requested size: 241.84842pt x 319.35355pt.
+
+[16
+
+ <./Imagenes/Ruido_sp_10_.png> <./Imagenes/Ruido_sp_10_mediana_3.png>]
+<Imagenes/Ruido_Gauss_5_50_mediana_5.png, id=132, 501.875pt x 668.4975pt>
+File: Imagenes/Ruido_Gauss_5_50_mediana_5.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_mediana_5.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_mediana_5.png  used on input
+ line 121.
+(pdftex.def)             Requested size: 227.62204pt x 303.1978pt.
+<Imagenes/Ruido_Gauss_5_50_max_5.png, id=133, 501.875pt x 668.4975pt>
+File: Imagenes/Ruido_Gauss_5_50_max_5.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_max_5.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_max_5.png  used on input lin
+e 121.
+(pdftex.def)             Requested size: 227.62204pt x 303.1978pt.
+<Imagenes/Ruido_Gauss_5_50_min_5.png, id=134, 501.875pt x 668.4975pt>
+File: Imagenes/Ruido_Gauss_5_50_min_5.png Graphic file (type png)
+<use Imagenes/Ruido_Gauss_5_50_min_5.png>
+Package pdftex.def Info: Imagenes/Ruido_Gauss_5_50_min_5.png  used on input lin
+e 122.
+(pdftex.def)             Requested size: 227.62204pt x 303.1978pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--127
+
+ []
+
+[17
+
+ <./Imagenes/Ruido_Gauss_5_50_mediana_5.png> <./Imagenes/Ruido_Gauss_5_50_max_5
+.png> <./Imagenes/Ruido_Gauss_5_50_min_5.png>]
+<Imagenes/Ruido_sp_50_mediana_5.png, id=141, 960.58875pt x 602.25pt>
+File: Imagenes/Ruido_sp_50_mediana_5.png Graphic file (type png)
+<use Imagenes/Ruido_sp_50_mediana_5.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_50_mediana_5.png  used on input line
+ 132.
+(pdftex.def)             Requested size: 348.54625pt x 218.52827pt.
+<Imagenes/Ruido_sp_50_max_5.png, id=142, 960.58875pt x 602.25pt>
+File: Imagenes/Ruido_sp_50_max_5.png Graphic file (type png)
+<use Imagenes/Ruido_sp_50_max_5.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_50_max_5.png  used on input line 132
+.
+(pdftex.def)             Requested size: 348.54625pt x 218.52827pt.
+<Imagenes/Ruido_sp_50_min_5.png, id=143, 960.58875pt x 602.25pt>
+File: Imagenes/Ruido_sp_50_min_5.png Graphic file (type png)
+<use Imagenes/Ruido_sp_50_min_5.png>
+Package pdftex.def Info: Imagenes/Ruido_sp_50_min_5.png  used on input line 133
+.
+(pdftex.def)             Requested size: 348.54625pt x 218.52827pt.
+<Imagenes/tortuga.jpeg, id=144, 1003.75pt x 626.34pt>
+File: Imagenes/tortuga.jpeg Graphic file (type jpg)
+<use Imagenes/tortuga.jpeg>
+Package pdftex.def Info: Imagenes/tortuga.jpeg  used on input line 133.
+(pdftex.def)             Requested size: 348.54625pt x 217.49243pt.
+ [18 <./Imagenes/Ruido_sp_50_mediana_5.png> <./Imagenes/Ruido_sp_50_max_5.png> 
+<./Imagenes/Ruido_sp_50_min_5.png> <./Imagenes/tortuga.jpeg>]) [19
+
+] (./Operaciones_morfologicas.tex [20]
+<Imagenes/monedas_2_chica.jpeg, id=158, 564.60938pt x 752.8125pt>
+File: Imagenes/monedas_2_chica.jpeg Graphic file (type jpg)
+<use Imagenes/monedas_2_chica.jpeg>
+Package pdftex.def Info: Imagenes/monedas_2_chica.jpeg  used on input line 95.
+(pdftex.def)             Requested size: 213.39566pt x 284.53246pt.
+<Imagenes/op_morf_monedas_0.jpeg, id=159, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_0.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_0.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_0.jpeg  used on input line 95
+.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+
+[21 <./Imagenes/monedas_2_chica.jpeg> <./Imagenes/op_morf_monedas_0.jpeg>]
+<Imagenes/op_morf_monedas_1.png, id=163, 754.82pt x 996.72375pt>
+File: Imagenes/op_morf_monedas_1.png Graphic file (type png)
+<use Imagenes/op_morf_monedas_1.png>
+Package pdftex.def Info: Imagenes/op_morf_monedas_1.png  used on input line 105
+.
+(pdftex.def)             Requested size: 213.39566pt x 281.7727pt.
+<Imagenes/op_morf_monedas_2.png, id=164, 754.82pt x 996.72375pt>
+File: Imagenes/op_morf_monedas_2.png Graphic file (type png)
+<use Imagenes/op_morf_monedas_2.png>
+Package pdftex.def Info: Imagenes/op_morf_monedas_2.png  used on input line 105
+.
+(pdftex.def)             Requested size: 213.39566pt x 281.7727pt.
+<Imagenes/op_morf_monedas_3.jpeg, id=165, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_3.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_3.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_3.jpeg  used on input line 10
+6.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+<Imagenes/op_morf_monedas_4.jpeg, id=166, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_4.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_4.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_4.jpeg  used on input line 10
+6.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+
+[22 <./Imagenes/op_morf_monedas_1.png> <./Imagenes/op_morf_monedas_2.png> <./Im
+agenes/op_morf_monedas_3.jpeg> <./Imagenes/op_morf_monedas_4.jpeg>]
+<Imagenes/op_morf_monedas_5.jpeg, id=172, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_5.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_5.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_5.jpeg  used on input line 11
+6.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+<Imagenes/op_morf_monedas_6.jpeg, id=173, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_6.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_6.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_6.jpeg  used on input line 11
+6.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+<Imagenes/op_morf_monedas_final.jpeg, id=174, 180.675pt x 240.9pt>
+File: Imagenes/op_morf_monedas_final.jpeg Graphic file (type jpg)
+<use Imagenes/op_morf_monedas_final.jpeg>
+Package pdftex.def Info: Imagenes/op_morf_monedas_final.jpeg  used on input lin
+e 117.
+(pdftex.def)             Requested size: 213.39566pt x 284.53152pt.
+<Imagenes/op_morf_monedas_contabilizacion.png, id=175, 754.82pt x 996.72375pt>
+File: Imagenes/op_morf_monedas_contabilizacion.png Graphic file (type png)
+<use Imagenes/op_morf_monedas_contabilizacion.png>
+Package pdftex.def Info: Imagenes/op_morf_monedas_contabilizacion.png  used on 
+input line 118.
+(pdftex.def)             Requested size: 213.39566pt x 281.7727pt.
+ [23 <./Imagenes/op_morf_monedas_5.jpeg> <./Imagenes/op_morf_monedas_6.jpeg> <.
+/Imagenes/op_morf_monedas_final.jpeg> <./Imagenes/op_morf_monedas_contabilizaci
+on.png>])
+[24] (./Contrastado.tex [25]
+<Imagenes/caravaggio.jpeg, id=187, 240.9pt x 178.5069pt>
+File: Imagenes/caravaggio.jpeg Graphic file (type jpg)
+<use Imagenes/caravaggio.jpeg>
+Package pdftex.def Info: Imagenes/caravaggio.jpeg  used on input line 36.
+(pdftex.def)             Requested size: 341.43306pt x 253.02666pt.
+<Imagenes/Contraste_ambos.png, id=188, 983.675pt x 729.72626pt>
+File: Imagenes/Contraste_ambos.png Graphic file (type png)
+<use Imagenes/Contraste_ambos.png>
+Package pdftex.def Info: Imagenes/Contraste_ambos.png  used on input line 37.
+(pdftex.def)             Requested size: 341.43306pt x 253.28128pt.
+<Imagenes/Contraste_contraste.png, id=189, 983.675pt x 729.72626pt>
+File: Imagenes/Contraste_contraste.png Graphic file (type png)
+<use Imagenes/Contraste_contraste.png>
+Package pdftex.def Info: Imagenes/Contraste_contraste.png  used on input line 3
+8.
+(pdftex.def)             Requested size: 341.43306pt x 253.28128pt.
+<Imagenes/Contraste_brillo.png, id=190, 983.675pt x 729.72626pt>
+File: Imagenes/Contraste_brillo.png Graphic file (type png)
+<use Imagenes/Contraste_brillo.png>
+Package pdftex.def Info: Imagenes/Contraste_brillo.png  used on input line 38.
+(pdftex.def)             Requested size: 341.43306pt x 253.28128pt.
+
+
+LaTeX Warning: Float too large for page by 24.75407pt on input line 41.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./Imagenes/caravaggio.jpeg> <./Imagenes/Contraste_ambos.png> <./Imagenes/C
+ontraste_contraste.png> <./Imagenes/Contraste_brillo.png>]) (./Reporte_2.aux
+LaTeX Info: Redefining \sptext on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
+Package logreq Info: Writing requests to 'Reporte_2.run.xml'.
+\openout1 = `Reporte_2.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15147 strings out of 478268
+ 268916 string characters out of 5847840
+ 1090473 words of memory out of 5000000
+ 33121 multiletter control sequences out of 15000+600000
+ 479385 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,13n,62p,960b,1828s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/app/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</app/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></app/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></app/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb></app/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></ap
+p/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></app/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></app/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></app/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr5.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></app
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></app/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></app/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></app/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></ap
+p/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></app/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></app/texlive/texmf-dist/font
+s/type1/public/cm-super/sfrm1000.pfb>
+Output written on Reporte_2.pdf (26 pages, 24088701 bytes).
+PDF statistics:
+ 286 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+

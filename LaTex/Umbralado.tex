@@ -1,0 +1,24 @@
+El umbralado, siempre se realizará con el valor de umbral colocado en el \textit{input}, ubicado entre el título de la función y el botón.
+
+Conseguir umbralar una imagen tienen una lógica muy sencilla: Se recorren todos los pixeles de la imagen en su único canal, y según el valor del pixel sea menor o mayor-igual al valor de umbral definido por el usuario, la intensidad del pixel se valua como 0 o 255, y de esta forma se consigue binarizar la imagen.
+
+Otra alternativa un poco más sencilla, es utilizar la función que provee la biblioteca de OpenCV \textit{threshold} y esta nos regresa 2 parámetros: el umbral utilizado para la binarización(importante cuando se indica que el propio algoritmo eliga el mejor umbral) y la imagen umbralada.
+
+
+\begin{lstlisting}[language=Python]
+	# 4
+	def threshold_image(image:array,threshold:int=127,value:int=255):
+		threshold,image_1_channel = cv2.threshold(image,threshold,value,cv2.THRESH_BINARY)
+		# binarized Image of 3 channels
+		return threshold,cv2.merge([copy(image_1_channel),copy(image_1_channel),copy(image_1_channel)])
+\end{lstlisting}
+
+Se agrega al código una última instrucción que implica a la función \textit{merge}. Esta instrucción se utiliza para retornar una image, que aun en escala de grises, cuenta con 3 canales tal como se fuera una color RGB, con la diferencia de que se seguira mostrando en escala pues los 3 canales en 1 solo pixel, cuentan con el mismo valor de intensidad.
+
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=18cm]{Imagenes/Binarizacion.png}
+	\caption{Se muestra la imagen de unos oros romanos. La primera se encuentra unicamente en niveles de grises, y la segunda se ha binarizado con un valor de umbral 45(tal y como muestra el texto de estado en la \textit{Barra inferior})}
+\end{figure}
+

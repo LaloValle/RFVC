@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/ActionButton.qml","main.py","qml/pages/HistogramPlot.qml","scripts/Miscellaneous.js","scripts/WindowsFunctions.js","qml/controls/Collapsable.qml","qml/main.qml","qml/controls/DragButton.qml","qml/controls/TopBarButton.qml"]
+}

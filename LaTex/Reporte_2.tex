@@ -1,0 +1,81 @@
+\documentclass[10pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[top=1.2cm,bottom=1.2cm,left=1.2cm, right=1.2cm]{geometry}
+\usepackage{nopageno}
+
+\usepackage{amsmath,amssymb}
+
+% Imágenes
+\usepackage{graphicx}
+% Justificar texto
+\usepackage{ragged2e}
+% BibLaTex
+\usepackage{biblatex,csquotes}
+\addbibresource{Referencias.bib}
+
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lscape}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=Python,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
+\begin{document}
+	
+\input{Titulo}
+
+\hfill \break
+
+\section*{Introducción}
+	\input{Introduccion}
+
+\newpage
+
+\section*{1. Escala de grises y umbralado}
+	\input{Grises_umbralado}
+	
+\newpage
+	
+\section*{2. Contabilización Objetos}
+	\input{Contabilizacion_objetos}
+	
+\newpage
+	
+\section*{3. Ruido en imagen}
+	\input{Ruido}
+	
+\newpage
+
+\section*{4. Filtrado de imagen}
+	\input{Filtros}
+	
+\newpage
+	
+\section*{5. Operaciones Morfológicas}
+	\input{Operaciones_morfologicas}
+	
+\newpage
+
+\section*{6. Contrastado de Imagen}
+	\input{Contrastado}
+	
+\end{document}
